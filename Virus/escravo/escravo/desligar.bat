@@ -1,0 +1,1 @@
+shutdown -t 3 -s -f -c "Erro fatal"
